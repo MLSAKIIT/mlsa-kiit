@@ -1,3 +1,2 @@
-# MLSA, KIIT Chapter
-
+# MLSA, KIIT Chapter <img src="http://dono-03.danbot.host:4526/api/badge/2/status"> <img src="http://dono-03.danbot.host:4526/api/badge/2/uptime">
 Microsoft Learn Student Ambassador, KIIT Chapter, is a technical community delicately working towards elevating the coding culture of Kalinga Institute of Industrial Technology, Bhubaneswar by providing opportunities to students to work on projects and boost their analytical and logical skills along with the coding.
